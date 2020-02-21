@@ -3,6 +3,10 @@ body {
   color: rgba(255, 255, 255, 0.8);
 }
 
+.nav-color {
+  background-color: darkblue;
+}
+
 #landing {
   height: 100vh;
   background-image: url("../images/background.jpg");
